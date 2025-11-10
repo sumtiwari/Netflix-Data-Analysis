@@ -33,10 +33,6 @@ It combines **Python (Pandas, Matplotlib, Seaborn)** and for end-to-end analysis
 
 ---
 
-## 📓 Jupyter Notebook
-You can view the full analysis and code in the notebook:  
-[`Netflix_Analysis.ipynb`](Netflix_Analysis.ipynb)
-
 ---
 
 ## 🔍 Insights Gained
